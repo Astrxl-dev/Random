@@ -39,11 +39,9 @@ Début d'une partie (les messages dépendent du nombre tiré au sort) :
 Devine le nombre choisi par l'ordinateur : 0
 Le nombre rentré n'est pas celui de l'ordinateur
 Le nombre que tu as entré est trop petit. Celui de l'ordinateur est plus élevé
-Le nombre rentré n'est pas celui de l'ordinateur
 Devine le nombre choisi par l'ordinateur : 500
-Le nombre que tu as entré est trop élevé. Celui de l'ordinateur est plus petit
-Le nombre rentré n'est pas celui de l'ordinateur
-Devine le nombre choisi par l'ordinateur :
+Le nombre que tu as entré est trop petit. Celui de l'ordinateur est plus élevé
+Devine le nombre choisi par l'ordinateur : 
 ```
 
 💡 **Astuce :** en proposant à chaque fois le milieu de l'intervalle restant (recherche dichotomique), tu trouves le nombre en 11 essais maximum.
