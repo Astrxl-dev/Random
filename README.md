@@ -19,8 +19,8 @@ Aucune bibliothèque externe n'est nécessaire : le script utilise uniquement le
 Clone le dépôt, ou télécharge directement le fichier `Random_.py` :
 
 ```bash
-git clone https://github.com/<ton-pseudo>/<nom-du-depot>.git
-cd <nom-du-depot>
+git clone https://github.com/astrxl-dev/random.git
+cd random
 ```
 
 ## Utilisation
